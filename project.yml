@@ -21,6 +21,8 @@
 #  :use_assembly: FALSE
 
 :environment:
+:module_generator:
+  :naming: bumpy
 
 :extension:
   :executable: .exe
